@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    text-align: center;
+}
+
 img:hover {
     transform: scale(1.2);
 }
